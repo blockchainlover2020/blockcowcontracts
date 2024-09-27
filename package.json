@@ -43,7 +43,7 @@
     "@safe-global/protocol-kit": "^1.2.0",
     "@safe-global/safe-core-sdk-types": "^2.2.0",
     "@slack/web-api": "^6.9.0",
-    "@tenderly/hardhat-tenderly": "~1.1.6",
+    "@tenderly/hardhat-tenderly": "~2.4.0",
     "@types/chai": "^4.3.4",
     "@types/chai-as-promised": "^7.1.5",
     "@types/debug": "^4.1.7",
